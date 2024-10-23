@@ -1,5 +1,5 @@
 ## Hi there 👋
-Ьy name is Mykhailo I am a 3rd year student and I am actively developing and looking for new opportunities to become a .Net developer
+My name is Mykhailo I am a 3rd year student and I am actively developing and looking for new opportunities to become a .Net developer
 <!--
 **zaliznyimh/zaliznyimh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

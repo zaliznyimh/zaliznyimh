@@ -1,2 +1,3 @@
 ## Hi there 👋
-My name is Mykhailo I am a 3rd year student and I am actively developing and looking for new opportunities to become a backend WEB developer
+I am a CS student with a strong interest in backend development, particularly using Java and Spring Boot. I am actively expanding my skills in building robust web applications, working with REST APIs, and managing relational databases. Recently, I have also started exploring mobile
+development to broaden my technical expertise. I enjoy learning new technologies, solving challenging problems, and continuously improving both my technical and soft skills. I am looking for opportunities where I can contribute as a backend developer, grow professionally, and help organizations achieve their goals.
